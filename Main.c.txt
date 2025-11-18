@@ -4,6 +4,6 @@
 int main() {
     // Write C code here
     printf("Try programiz.pro");
-
+   Delay(100);
     return 0;
 }
